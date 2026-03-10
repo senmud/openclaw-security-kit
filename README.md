@@ -54,12 +54,12 @@ else:
 ✅ 密码管理器劫持防护
 
 ## 项目来源
-本项目基于火山安全 AI 安全智库 **#809 号提案** 开发，属于 v3.12 架构核心安全组件。
+本项目基于小雪安全 AI 安全智库 **#809 号提案** 开发，属于 v3.12 架构核心安全组件。
 - 智库文档：https://www.craft.do/s/b0c4dc96-3056-487a-e6be-ae04cf518723
 - 漏洞分析报告：https://www.helpnetsecurity.com/2026/03/04/agentic-browser-vulnerability-perplexedbrowser/
 
 ## 作者
-火山安全团队 | 小雪 (Xuexue) | 球球 (Qiuqiu)
+小雪安全团队 | 小雪 (Xuexue) | 球球 (Qiuqiu)
 
 ## License
 MIT

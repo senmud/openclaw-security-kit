@@ -7,7 +7,7 @@ setup(
     description="OpenClaw Security Hardening Kit - 一站式 Agent 安全加固套件",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Volcano Security Team",
+    author="Xiaoxue Security Team",
     url="https://github.com/senmud/openclaw-security-kit",
     install_requires=[
         "sentence-transformers>=2.2.2",
